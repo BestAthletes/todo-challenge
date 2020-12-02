@@ -2,13 +2,18 @@
 
 The goal of this assignment is to create a Todo app. For reference, checkout the "Todoist" app; https://todoist.com/app
 
+To make a submission clone or fork this repository to your own Github and implement the todo app. Ideally you won't spend more than 3 hours on your solution but you're free to take as much time as you like.
+
+When it's ready email info@bestathletes.co with a link to the Git repository and any information you want to add about your submission. We will review it by cloning the repository, running `npm install` and `npm run serve` to setup the development server.
+
 #### Requirements
 - The User can add a new task
 - The User can mark a task as completed
 - The User can remove (delete) a task
 - The User can edit a task
+- At least one additional feature you think is cool or useful
 
-#### Additional features (not required)
+#### Possible additional features (not required)
 - Animate changes in task state
 - Add another page for completed tasks
 - Persist tasks
