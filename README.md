@@ -6,12 +6,15 @@ To make a submission clone or fork this repository to your own Github and implem
 
 When it's ready email hiring@bestathletes.co with a link to the Git repository and any information you want to add about your submission. We will review it by cloning the repository, running `npm install` and `npm run serve` to setup the development server.
 
-#### Requirements
+#### Requirements (Part 1)
 - The User can add a new task
 - The User can mark a task as completed
 - The User can remove (delete) a task
 - The User can edit a task
+
+#### Requirements (Part 2)
 - At least one additional feature you think is cool or useful
+- At least one of the additional features should be made on a separate branch, with a PR created for review.
 
 #### Possible additional features (not required)
 - Animate changes in task state
