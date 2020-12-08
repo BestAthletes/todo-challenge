@@ -2,7 +2,7 @@
 
 The goal of this assignment is to create a Todo app. For reference, checkout the "Todoist" app; https://todoist.com/app
 
-To make a submission clone or fork this repository to your own Github and implement the todo app. Ideally you won't spend more than 3 hours on your solution but you're free to take as much time as you like.
+To make a submission fork this repository to your own Github and implement the todo app. Ideally you won't spend more than 3 hours on your solution but you're free to take as much time as you like.
 
 When it's ready email hiring@bestathletes.co with a link to the Git repository and any information you want to add about your submission. We will review it by cloning the repository, running `npm install` and `npm run serve` to setup the development server.
 
