@@ -10,7 +10,6 @@ When it's ready email hiring@bestathletes.co with a link to the Git repository a
 - The User can add a new task
 - The User can mark a task as completed
 - The User can remove (delete) a task
-- The User can edit a task
 
 #### Requirements (Part 2)
 - At least one additional feature you think is cool or useful
