@@ -15,6 +15,12 @@ When it's ready email hiring@bestathletes.co with a link to the Git repository a
 - At least one additional feature you think is cool or useful
 - At least one of the additional features should be made on a separate branch, with a PR created for review.
 
+---
+Note:
+Create the PR against the master branch of your forked repo, and not to the source respository
+
+---
+
 #### Possible additional features (not required)
 - Animate changes in task state
 - Add another page for completed tasks
